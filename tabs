@@ -1,0 +1,17 @@
+2 tabs
+
+1. exchange list, sorters, filters
+
+2. analyze
+
+a) global
+    - total routes number
+    - total exchange count
+    - average/max/min exchange time
+    - most used route
+    - successful/errored exchanges
+b) per route
+    - last exchange on route
+    - average/max/min times of each processor in route
+c) endpoints
+    - most used
